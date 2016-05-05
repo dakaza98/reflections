@@ -6,3 +6,6 @@
 	
 3. How can you use the staging area to make sure you have one commit per logical change?
 	There I can see what changes i have made and what is going to be commited.
+	
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	It helps when you add new changes that aren't a part of the real program such as experimental changes. 
