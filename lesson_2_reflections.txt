@@ -3,3 +3,6 @@
 	
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area only contains the files you want to commit. This makes it easier to make commits for every logical update.
+	
+3. How can you use the staging area to make sure you have one commit per logical change?
+	There I can see what changes i have made and what is going to be commited.
