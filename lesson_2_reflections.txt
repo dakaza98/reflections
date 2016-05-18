@@ -12,3 +12,6 @@
 	
 5. How do the diagrams help you visualize the branch structure?
 	It gives a clear image of how my project is structured and can prevent mistakes.
+	
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The two branches come together as one commit with changes from both branches.
