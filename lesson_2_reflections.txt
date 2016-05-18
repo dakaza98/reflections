@@ -9,3 +9,6 @@
 	
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	It helps when you add new changes that aren't a part of the real program such as experimental changes. 
+	
+5. How do the diagrams help you visualize the branch structure?
+	It gives a clear image of how my project is structured and can prevent mistakes.
